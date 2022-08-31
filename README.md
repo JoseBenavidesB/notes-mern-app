@@ -1,4 +1,4 @@
-# Notes MERN APP
+# Notes MERN APPgt
 On this app you can save note with categories (tags), filter them, create a user, login.
 This application is mainly developed with Node.js and React.js, so the application is composed of two parts: Backend (Rest API) and Frontend (SPA).
 
