@@ -1,0 +1,5 @@
+backend/node_modules/
+backend/.env
+
+frontend/notesapp/node_modules/
+frontend/notesapp/build
